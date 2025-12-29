@@ -1,4 +1,4 @@
 package PACKAGE_NAME;
 
-public class map {
+public class utils {
 }
