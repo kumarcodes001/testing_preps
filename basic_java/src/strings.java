@@ -1,8 +1,9 @@
 import java.util.*;
 
+//this contain string related codes:
+// hashmap || palindrome || anagram
 
-
-public class map {
+public class strings {
     public static void main(String[] args) {
 
 
